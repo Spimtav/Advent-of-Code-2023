@@ -1,6 +1,6 @@
 require "../helpers/helpers.rb"
 
-FILE_NAME='input.txt'
+FILE_NAME = 'input.txt'
 FUNC_NAMES = %w[
   calibration_sum_readable
   calibration_sum_explicit
